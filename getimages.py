@@ -6,7 +6,7 @@ import urllib2
 import simplejson
 
 # Define search term
-searchTerm = "bubba ho-tep"
+searchTerm = "william shatner"
 
 # Replace spaces ' ' in search term for '%20' in order to comply with request
 searchTerm = searchTerm.replace(' ','%20')
