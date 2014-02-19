@@ -9,6 +9,7 @@ https://github.com/facebook/fbconsole
 Happy spamming!
 
 Usage:
+0. install fbconsole and simplejson (eg. 'pip install fbconsole simplejson' from terminal)
 1. modify getimages.py to search for what you want to
 2. run getimages.py
 3. move images to a folder called "pics"
